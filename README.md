@@ -21,3 +21,12 @@ You just started working for a new agency. You have to take over a project for a
 ## On The Real
 
 The way things stand now there are some pretty glaring bugs in the app and a handful of places that could use some optimization. We want to see how you approach buggy code and what things you really care about. There is no set design for requirement three so use your creativity.
+
+## Screenshot
+
+<img width="1440" alt="Screen Shot 2022-02-19 at 6 06 01 AM" src="https://user-images.githubusercontent.com/1275902/154802030-34b2131e-ebab-489c-b2b2-7a69646fdcc2.png">
+
+## Features
+1. Tailwind CSS for a responsive design
+2. useEffect async call example that changes useState
+3. Example of doing a simple filtering search on every key press using Array.filter
